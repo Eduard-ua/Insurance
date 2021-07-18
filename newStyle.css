@@ -33,7 +33,7 @@
     left: 0;
     width: 100%;
     z-index: -100;
-    display: none; //todo delete these point
+    //display: none; //todo delete these point
 }
 
 .intro-title,
